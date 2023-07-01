@@ -1,0 +1,13 @@
+.nav-link {
+  color: rgb(184, 39, 177);
+  font-weight: 500;
+}
+
+.nav-link.active {
+  color: rgba(127, 233, 57, 0.856) !important;
+  background-color: rgb(33, 37, 41) !important;
+}
+
+.Hero{
+  color:blue;
+}
